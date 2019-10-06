@@ -1,19 +1,20 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Marc Agbanchenou's CV
 ---
-# Isaac Newton
+# Marc Agbanchenou
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="marc.agbanch@gmail.com">marc.agbanch@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+(Standing on the shoulders of giants)
+Front-end oriented R&D Engineer at Intersec Group
 
 ### Specialized in
 
