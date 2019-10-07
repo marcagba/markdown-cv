@@ -1,92 +1,55 @@
 ---
 layout: cv
-title: Marc Agbanchenou's CV
+title: CV de Marc Agbanchenou
 ---
 # Marc Agbanchenou
-Physicist, Mathematician, Cambridge professor.
+Ingénieur R&D
 
 <div id="webaddress">
 <a href="marc.agbanch@gmail.com">marc.agbanch@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
-## Currently
+## Actuellement
 
-(Standing on the shoulders of giants)
-Front-end oriented R&D Engineer at Intersec Group
+Ingénieur Front-end chez Intersec Group
 
-### Specialized in
+### Spécialisé dans
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Développement front-end
 
 
-### Research interests
+## Experience
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Août 2016 - ...`
 
+`Décembre 2014 - Juillet 2016`
+`Avril 2014 - Octobre 2014`
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013 - 2014`
+__EISTI, Cergy.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2010 - 2014`
+__ENSEA, Cergy__
 
-- Sizar
+- 
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2007 - 2010`
 
-- Fellow
+- CPGE ATS, Rouen
+- DUT Informatique
+- BAC S options S.I,
 
+## Compétences
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Centres d'interêts
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: October 7 -->
 
 
