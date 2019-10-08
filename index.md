@@ -22,21 +22,29 @@ Développement front-end
 
 `Août 2016 - ...`
 
-__Ingénieur R&D, Intersec, Paris__
+__Ingénieur R&D__, Intersec, Paris
 
 `Décembre 2014 - Juillet 2016`
 
-__Ingénieur R&D, Dassault Systèmes, Rennes__
+-  
+
+__Ingénieur R&D__, Dassault Systèmes, Rennes
 
 `Avril 2014 - Octobre 2014`
+- Développement de la partie cliente d’un logiciel de cartographie 3D, de visualisation interactive de données et d’aménagement du territoire (JavaScript, WebGL, HTML5, Backbone.js, Google Polymer)
 
-__Ingénieur stagiaire Recherche, Dassault Systèmes, Velizy-Villacoublay__ 
+__Ingénieur stagiaire en Mathématiques appliquées__, Dassault Systèmes, Velizy-Villacoublay 
+
+- Portage de la partie cliente d’une technologie de streaming vers un composant purement web (C++, JavaScript, HTML5, WebGL, shaders)
+- Intégration du codec h.264
+- Etude d’intégration de l’API WebRTC
+- Adaptation sur tablette Android
 
 ## Formation
 
 `2010 - 2014`
 
-__Double diplôme ENSEA (electronique) - EISTI (informatique), Cergy__
+__Double diplôme ENSEA (electronique) - EISTI (informatique)__, Cergy
 
 - Partenariat entre l'ENSEA et l'EISTI (2 ans à l'ENSEA, 1 an à l'EISTI)
 - Spécialisation en Image, Immersion & Interactions
@@ -45,11 +53,11 @@ __Double diplôme ENSEA (electronique) - EISTI (informatique), Cergy__
 
 __CPGE ATS, Rouen__
 
-__DUT Informatique, Amiens__
+__DUT Informatique__, Amiens
 
 - Spécialité imagerie numérique 
 
-__BAC S, Dieppe__
+__BAC S__, Dieppe
 
 - Option S.I
 - Mention assez bien
