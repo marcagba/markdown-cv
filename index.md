@@ -101,7 +101,7 @@ Python (notions)
 - Anglais courant (TOEIC 970 février 2012)
 - Espagnol intermédiaire
 
-## Centres d'interêts
+## Interêts
 
 `Sports`
 
