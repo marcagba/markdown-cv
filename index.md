@@ -66,9 +66,7 @@ __DUT Informatique__, Amiens
 
 __BAC S__, Dieppe
 
-- Option S.I
-- Mention assez bien
-- Mention européenne
+Option S.I, mention assez bien, mention européenne
 
 ## Compétences
 
@@ -82,8 +80,7 @@ __BAC S__, Dieppe
 - Git
 - Jasmine
 - Selenium
-- Python (notions)
-- PHP (notions)
+- Python, PHP (notions)
 
 `Langues`
 
