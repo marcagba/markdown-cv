@@ -6,7 +6,7 @@ title: CV de Marc Agbanchenou
 Ingénieur R&D
 
 <div id="webaddress">
-<a href="marc.agbanch@gmail.com">marc.agbanch@gmail.com</a>
+<a href="https://www.linkedin.com/in/marcagbanchenou/">Profile LinkedIn</a>
 </div>
 
 
