@@ -58,7 +58,7 @@ __Double diplôme ENSEA (electronique) - EISTI (informatique)__, Cergy
 
 `2007 - 2010`
 
-__CPGE ATS, Rouen__
+__CPGE ATS__, Rouen
 
 __DUT Informatique__, Amiens
 
