@@ -12,19 +12,25 @@ Ingénieur R&D
 
 ## Actuellement
 
-Ingénieur Front-end chez Intersec Group
+En poste chez Intersec Group
 
 ### Spécialisé dans
 
 Développement front-end
 
-
 ## Experience
 
 `Août 2016 - ...`
 
+__Ingénieur R&D, Intersec, Paris__
+
 `Décembre 2014 - Juillet 2016`
+
+__Ingénieur R&D, Dassault Systèmes, Rennes__
+
 `Avril 2014 - Octobre 2014`
+
+__Ingénieur stagiaire Recherche, Dassault Systèmes, Velizy-Villacoublay__ 
 
 ## Education
 
