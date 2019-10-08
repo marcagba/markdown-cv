@@ -38,7 +38,7 @@ Développement de la partie cliente d’un logiciel de cartographie 3D, de visua
 - Implémentation des éléments d'interface utilisateur
 - Intégration de l'application dans la plateforme applicative "3D Experience platform"
 
-`Avr. 2014 - Oct. 2014`
+`Avr. - Oct. 2014`
 
 __Ingénieur stagiaire en Mathématiques appliquées__, Dassault Systèmes, Velizy-Villacoublay 
 
