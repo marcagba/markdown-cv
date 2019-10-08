@@ -72,17 +72,29 @@ Option S.I, mention assez bien, mention européenne
 
 `Informatique`
 
+<p>
 JavaScript 
 | TypeScript
+</p>
+<p>
 CSS 
 | HTML5
+</p>
+<p>
 VueJs 
 | Backbone.js
+</p>
+<p>
 Git
+</p>
+<p>
 Jasmine 
 | Selenium
+ </p>
+<p>
 Python (notions) 
 | PHP (notions)
+</p>
 
 `Langues`
 
@@ -101,6 +113,6 @@ Cuisine
 
 <!-- ### Footer
 
-Last updated: October 7 -->
+Last updated: October 8 -->
 
 
