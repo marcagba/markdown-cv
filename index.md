@@ -19,7 +19,7 @@ Développement front-end
 
 ## Experience
 
-`Août 2016 - ...`
+`Août 2016 - ..`
 
 __Ingénieur R&D__, Intersec, Paris
 
@@ -30,7 +30,7 @@ Développement de la partie cliente de solutions d'analyse de données de géolo
 - Review de code
 - Ecriture de documentation
 
-`Décembre 2014 - Juillet 2016`
+`Déc. 2014 - Juill. 2016`
 
 __Ingénieur R&D__, Dassault Systèmes, Rennes
 
@@ -38,7 +38,7 @@ Développement de la partie cliente d’un logiciel de cartographie 3D, de visua
 - Implémentation des éléments d'interface utilisateur
 - Intégration de l'application dans la plateforme applicative "3D Experience platform"
 
-`Avril 2014 - Octobre 2014`
+`Avr. 2014 - Oct. 2014`
 
 __Ingénieur stagiaire en Mathématiques appliquées__, Dassault Systèmes, Velizy-Villacoublay 
 
