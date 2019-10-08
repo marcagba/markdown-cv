@@ -9,7 +9,6 @@ Ingénieur R&D
 <a href="https://www.linkedin.com/in/marcagbanchenou/">Profile LinkedIn</a>
 </div>
 
-
 ## Actuellement
 
 En poste chez Intersec Group
@@ -24,18 +23,26 @@ Développement front-end
 
 __Ingénieur R&D__, Intersec, Paris
 
-`Décembre 2014 - Juillet 2016`
+Développement de la partie cliente de solutions d'analyse de données de géolocalisation et de traitement de grands volumes de données en temps réel dit "bigdata" (TypeScript, Backbone.js, VueJs, HTML5, CSS)
 
--  
+- Implémentation de fonctionnalités et des blocs les utilisants (composants de visualisation de données de type widget, dashboard, panel, cartographie)
+- Design technique, mise en oeuvre (code, tests unitaires, tests fonctionnels)
+- Review de code
+- Ecriture de documentation
+
+`Décembre 2014 - Juillet 2016`
 
 __Ingénieur R&D__, Dassault Systèmes, Rennes
 
+Développement de la partie cliente d’un logiciel de cartographie 3D, de visualisation interactive de données et d’aménagement du territoire (JavaScript, WebGL, HTML5, Backbone.js, Google Polymer)
+- Implémentation des éléments d'interface utilisateur
+- Intégration de l'application dans la plateforme applicative "3D Experience platform"
+
 `Avril 2014 - Octobre 2014`
-- Développement de la partie cliente d’un logiciel de cartographie 3D, de visualisation interactive de données et d’aménagement du territoire (JavaScript, WebGL, HTML5, Backbone.js, Google Polymer)
 
 __Ingénieur stagiaire en Mathématiques appliquées__, Dassault Systèmes, Velizy-Villacoublay 
 
-- Portage de la partie cliente d’une technologie de streaming vers un composant purement web (C++, JavaScript, HTML5, WebGL, shaders)
+Portage de la partie cliente d’une technologie de streaming vers un composant purement web (C++, JavaScript, HTML5, WebGL, shaders)
 - Intégration du codec h.264
 - Etude d’intégration de l’API WebRTC
 - Adaptation sur tablette Android
