@@ -72,7 +72,6 @@ Option S.I, mention assez bien, mention européenne
 
 `Informatique`
 
-<div>
 JavaScript 
 | TypeScript
 CSS 
@@ -84,7 +83,6 @@ Jasmine
 | Selenium
 Python (notions) 
 | PHP (notions)
-</div>
 
 `Langues`
 
