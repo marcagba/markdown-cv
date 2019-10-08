@@ -6,12 +6,12 @@ title: CV de Marc Agbanchenou
 Ingénieur R&D
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/marcagbanchenou/">Profile LinkedIn</a>
+<a href="https://www.linkedin.com/in/marcagbanchenou/">Mon profile LinkedIn</a>
 </div>
 
 ## Actuellement
 
-En poste chez Intersec Group
+En poste chez Intersec
 
 ### Spécialisé dans
 
@@ -23,9 +23,9 @@ Développement front-end
 
 __Ingénieur R&D__, Intersec, Paris
 
-Développement de la partie cliente de solutions d'analyse de données de géolocalisation et de traitement de grands volumes de données en temps réel dit "bigdata" (TypeScript, Backbone.js, VueJs, HTML5, CSS)
+Développement de la partie cliente de solutions d'analyse de données de géolocalisation et de traitement de grands volumes de données en temps réel (TypeScript, Backbone.js, VueJs, HTML5, CSS)
 
-- Implémentation de fonctionnalités et des blocs les utilisants (composants de visualisation de données de type widget, dashboard, panel, cartographie)
+- Implémentation de fonctionnalités et des blocs les utilisants (composants de visualisation de données de type widget, dashboard, panel, cartographie...)
 - Design technique, mise en oeuvre (code, tests unitaires, tests fonctionnels)
 - Review de code
 - Ecriture de documentation
