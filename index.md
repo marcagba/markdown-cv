@@ -32,7 +32,7 @@ __Ingénieur R&D, Dassault Systèmes, Rennes__
 
 __Ingénieur stagiaire Recherche, Dassault Systèmes, Velizy-Villacoublay__ 
 
-## Education
+## Formation
 
 `2010 - 2014`
 
