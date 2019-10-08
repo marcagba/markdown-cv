@@ -81,7 +81,9 @@ __BAC S__, Dieppe
 - Backbone.js
 - Git
 - Jasmine
-- 
+- Selenium
+- Python (notions)
+- PHP (notions)
 
 `Langues`
 
