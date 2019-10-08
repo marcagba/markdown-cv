@@ -28,19 +28,26 @@ Développement front-end
 
 ## Education
 
-`2013 - 2014`
-__EISTI, Cergy.__
-
 `2010 - 2014`
-__ENSEA, Cergy__
 
-- 
+__Double diplôme ENSEA (electronique) - EISTI (informatique), Cergy__
+
+- Partenariat entre l'ENSEA et l'EISTI (2 ans à l'ENSEA, 1 an à l'EISTI)
+- Spécialisation en Image, Immersion & Interactions
 
 `2007 - 2010`
 
-- CPGE ATS, Rouen
-- DUT Informatique
-- BAC S options S.I,
+__CPGE ATS, Rouen__
+
+__DUT Informatique, Amiens__
+
+- Spécialité imagerie numérique 
+
+__BAC S, Dieppe__
+
+- Option S.I
+- Mention assez bien
+- Mention européenne
 
 ## Compétences
 
