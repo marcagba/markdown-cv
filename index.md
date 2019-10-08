@@ -72,17 +72,19 @@ Option S.I, mention assez bien, mention européenne
 
 `Informatique`
 
-- JavaScript 
+<div>
+JavaScript 
 | TypeScript
-- CSS 
+CSS 
 | HTML5
-- VueJs 
+VueJs 
 | Backbone.js
-- Git
-- Jasmine 
+Git
+Jasmine 
 | Selenium
-- Python (notions) 
+Python (notions) 
 | PHP (notions)
+</div>
 
 `Langues`
 
