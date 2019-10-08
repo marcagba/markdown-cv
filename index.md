@@ -72,9 +72,31 @@ __BAC S__, Dieppe
 
 ## Compétences
 
+`Informatique`
+
+- JavaScript / TypeScript
+- CSS
+- HTML5
+- VueJs
+- Backbone.js
+- Git
+- Jasmine
+- 
+
+`Langues`
+
+- Anglais courant (TOEIC 970 février 2012)
+- Espagnol intermédiaire
+
 ## Centres d'interêts
 
+`Sports`
 
+Escalade de blocs
+
+`Divers`
+
+Cuisine
 
 <!-- ### Footer
 
